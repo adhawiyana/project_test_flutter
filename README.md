@@ -14,6 +14,7 @@ Pastikan di project ini bisa menampilkan data dari salah satu/semua dari API di 
 
 
 ## Instruksi
+- FORK-kan project ini ke akun Github Anda.
 - Tidak diperbolehkan menggunakan AI untuk mengerjakan Uji Kompetensi ini.
 - Konsep arsitektur di Flutter harus menggunakan konsep MVB (Model-View-BLoC) atau bisa menggunakan state management lainnya (menggunakan konsep lainnya)
 - Beberapa library yang dibutuhkan sudah tercantum di [pubspec.yaml](/pubspec.yaml).
@@ -22,5 +23,10 @@ Pastikan di project ini bisa menampilkan data dari salah satu/semua dari API di 
 - Kreasikan tampilan sekreatif mungkin.
 - Data dari API bisa difilter, oleh karena itu sebisa mungkin menerapkan filter untuk data yang ditampilkan.
 
+## Pengumpulan
+- Dokumentasikan hasil pembuatan aplikasi di releases (APK)
+- Buatkan file Markdown (MD) baru dengan nama `DOKUMENTASI.md` dan cantumkan di PROJECT ini
+- Hasil screenshots aplikasi dicantumkan ke dalam `DOKUMENTASI.md`
+- Silahkan tambahkan informasi lainnya ke dalam `DOKUMENTASI.md`
 
 Terima kasih dan selamat berkarya.
