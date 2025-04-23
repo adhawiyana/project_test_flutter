@@ -14,14 +14,13 @@ Pastikan di project ini bisa menampilkan data dari salah satu/semua dari API di 
 
 
 ## Instruksi
-- FORK-kan project ini ke akun Github Anda.
+- FORK-kan project ini ke akun Github Anda. (5p)
 - Tidak diperbolehkan menggunakan AI untuk mengerjakan Uji Kompetensi ini.
-- Konsep arsitektur di Flutter harus menggunakan konsep MVB (Model-View-BLoC) atau bisa menggunakan state management lainnya (menggunakan konsep lainnya)
-- Beberapa library yang dibutuhkan sudah tercantum di [pubspec.yaml](/pubspec.yaml).
-- Library yang sudah terpasang bisa ditambah atau diganti sesuai kebutuhan.
-- Jika menampilkan lebih dari satu data dari API, harap membuat tampilan main menu untuk memilih data yang akan ditampilkan.
-- Kreasikan tampilan sekreatif mungkin.
-- Data dari API bisa difilter, oleh karena itu sebisa mungkin menerapkan filter untuk data yang ditampilkan.
+- Konsep arsitektur di Flutter harus menggunakan konsep MVB (Model-View-BLoC) atau bisa menggunakan state management lainnya (menggunakan konsep lainnya). (40p)
+- Beberapa library yang dibutuhkan sudah tercantum di [pubspec.yaml](/pubspec.yaml), library yang sudah terpasang bisa ditambah atau diganti sesuai kebutuhan.
+- Jika menampilkan lebih dari satu data dari API, harap membuat tampilan main menu untuk memilih data yang akan ditampilkan. (15p)
+- Kreasikan tampilan sekreatif mungkin. (20p)
+- Data dari API bisa difilter, oleh karena itu sebisa mungkin menerapkan filter untuk data yang ditampilkan. (20p)
 
 ## Pengumpulan
 - Dokumentasikan hasil pembuatan aplikasi di releases (APK)
