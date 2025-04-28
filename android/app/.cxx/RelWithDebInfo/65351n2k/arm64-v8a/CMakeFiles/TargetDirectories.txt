@@ -1,0 +1,2 @@
+/home/adha_wiyana/StudioProjects/project_test_flutter/android/app/.cxx/RelWithDebInfo/65351n2k/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/adha_wiyana/StudioProjects/project_test_flutter/android/app/.cxx/RelWithDebInfo/65351n2k/arm64-v8a/CMakeFiles/rebuild_cache.dir
